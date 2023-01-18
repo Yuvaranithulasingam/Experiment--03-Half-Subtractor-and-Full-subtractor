@@ -56,15 +56,16 @@ endmodule
 
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
 Developed by: Yuvarani T
 
 RegisterNumber:22009033  
 */
 
 ## Truthtable
-HALF SUBTRACTOR
+
 ![half sub truthtable](https://user-images.githubusercontent.com/121418522/213157495-55fe7372-034a-4deb-a57a-c7808e35f670.png)
-FULL SUBTRACTOR
+
 ![full sub truthtable](https://user-images.githubusercontent.com/121418522/213157894-a8d50f39-7ebd-4939-a458-b86dda3fd8c5.png)
 
 ##  RTL realization
