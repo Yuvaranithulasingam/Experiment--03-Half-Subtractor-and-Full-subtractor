@@ -60,21 +60,29 @@ Developed by: Yuvarani T
 RegisterNumber:22009033  
 */
 
-## Output:
-
-
-![Screenshot (5)](https://user-images.githubusercontent.com/121418522/211814266-cc7d8f56-55e1-4133-97d9-7dbb9b20acc7.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/121418522/211814490-3c5f5a14-1d8a-4294-9912-9ca676d609de.png)
-
 ## Truthtable
 
+HALF SUBTRACTOR
+![half sub truthtable](https://user-images.githubusercontent.com/121418522/213157495-55fe7372-034a-4deb-a57a-c7808e35f670.png)
 
+FULL SUBTRACTOR
+![full sub truthtable](https://user-images.githubusercontent.com/121418522/213157894-a8d50f39-7ebd-4939-a458-b86dda3fd8c5.png)
 
 ##  RTL realization
-![Screenshot (6)](https://user-images.githubusercontent.com/121418522/211814596-bda42b1b-76a2-4301-8eb4-b9174af6792a.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/121418522/211814715-b6753e30-0d18-452c-b2bc-1d99f979c087.png)
+
+HALF SUBTRACTOR
+![Screenshot (11)](https://user-images.githubusercontent.com/121418522/213158874-e8b2d587-983b-4ce9-94a8-d02796244242.png)
+
+FULL SUBTRACTOR
+![FULL ADD RTL](https://user-images.githubusercontent.com/121418522/213158970-1ed9870b-7017-43e0-9ea8-bbc29143b500.png)
 
 ## Timing diagram 
+
+HALF SUBTRACTOR
+![HALF SUB TIMING](https://user-images.githubusercontent.com/121418522/213159175-215553f5-6987-43ea-9998-7ecb416df729.png)
+
+FULL SUBTRACTOR
+![FULL SUB TIMING](https://user-images.githubusercontent.com/121418522/213159281-b50738f9-2fd3-4928-b64d-5509417aba3a.png)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
